@@ -27,7 +27,7 @@ A zero-config, drop-in **WYSIWYG+AI** editor that lets you redesign any HTML pag
 1. **Add the script** (or bundle it yourself):
 
 ```html
-<script defer src="/path/to/enhanced-inline-editor-streaming-fixed.js"></script>
+<script defer src="editor.js"></script>
 ```
 
 2. **Grab a free OpenRouter key**  
