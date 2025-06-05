@@ -1,4 +1,3 @@
-// enhanced-inline-editor-streaming-fixed.js - Fixed visual editor
 (function() {
     'use strict';
     
